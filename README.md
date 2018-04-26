@@ -1,2 +1,2 @@
 # powercli-scripts
-Various VMware PowerCLI scripts
+Various VMware PowerCLI commands
